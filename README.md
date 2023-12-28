@@ -30,7 +30,7 @@ Ecar is a simple rental management system written in C. It allows users to add c
   
 ## Usage
 - Execute the code or open bash E-car.exe
--Follow the On-Screen Menu:
+- Follow the On-Screen Menu:
   The program will display a menu with different options. Choose the desired action by entering the corresponding number.
   
   Menu Options:
