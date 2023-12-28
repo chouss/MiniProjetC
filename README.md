@@ -65,6 +65,7 @@ Ecar is a simple rental management system written in C. It allows users to add c
   Enter Data:
   Follow the prompts to enter data in the required format. For example, when adding a new car, you'll be prompted to provide   
     information such as the brand, maison, serial numbers, color, and price.
+  
   Please enter data in its right form!
   
   Exit the Program:
