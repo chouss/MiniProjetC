@@ -25,7 +25,7 @@ Ecar is a simple rental management system written in C. It allows users to add c
 
 ### Installation
 - Copy the code to your compilation progrm
-  or
+  -- or
 - Download E-car.exe
   
 ## Usage
